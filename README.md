@@ -1,5 +1,5 @@
 # PCMP_input_data
-- This repository provides the observed meteorological data at Tokyo, GCM data around Tokyo, and the observed mosquito population data  for conducting PCMP model (Watanabe et al.(2017).
+- This repository provides the observed meteorological data at Tokyo, GCM data around Tokyo, and the observed mosquito population data  for conducting PCMP model (Watanabe et al.(2017) and Fukui et al. (in submission)).
 - "measurement_data" contains the observed adult-mosquito couont data provided by Tsuda and Hayashi (2014).
 - "climate_data" contains the observed daily meteorological data at Tokyo from 2002 to 2010 (Japan Meteorological Agency).
 - "climate_data_for_model_input" contains the daily meteorological data (Obs and GCMs) required for conducting PCMP model. HadGEM, GFDL, MIROC data are collected (World Data Center for Climate).
