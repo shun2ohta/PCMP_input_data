@@ -3,7 +3,7 @@
 - "measurement_data" contains the observed adult-mosquito count data provided by Tsuda and Hayashi (2014).
 - "climate_data" contains the observed daily meteorological data at Tokyo from 2002 to 2013 (Japan Meteorological Agency).
 - "climate_data_for_model_input" contains the daily meteorological data (Obs and GCMs) required for conducting PCMP model. HadGEM, GFDL, MIROC data are collected (World Data Center for Climate).
-- Meteorological factors are air temperature, water temperature, soil moisture content, precipitation, soil run off, day length change, weekly average temperature, weekly average water temperature, and weekly average day length. Water temperature and Soil moisture content were obtaind from Ohta et al.(1993) and Tao et al.(2003), respectively. Soil run-off was calculated following Ohta and Kaga (2012). Daylength w obtaind from NOAA solar calculator.
+- Meteorological factors are air temperature, water temperature, soil moisture content, precipitation, soil run off, day length change, weekly average temperature, weekly average water temperature, and weekly average day length. Water temperature and Soil moisture content were obtaind from Ohta et al.(1993) and Tao et al.(2003), respectively. Soil run-off was calculated following Ohta and Kaga (2012). Daylength was obtaind from NOAA solar calculator.
 
 # Reference
 - Fukui S, Kuwano Y, Ueno K, Atsumi K, Ohta S. Modeling the effect of rainfall changes to predict population dynamics of the Asian tiger mosquito Aedes albopictus under future climate conditions. (in submisison)
