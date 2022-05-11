@@ -6,7 +6,7 @@
 - Meteorological factors are air temperature, water temperature, soil moisture content, precipitation, soil run off, day length change, weekly average temperature, weekly average water temperature, and weekly average day length. Water temperature and Soil moisture content were obtaind from Ohta et al.(1993) and Tao et al.(2003), respectively. Soil run-off was calculated following Ohta and Kaga (2012). Daylength was obtaind from NOAA solar calculator.
 
 # Reference
-- Fukui S, Kuwano Y, Ueno K, Atsumi K, Ohta S. Modeling the effect of rainfall changes to predict population dynamics of the Asian tiger mosquito Aedes albopictus under future climate conditions. (in submisison)
+- Fukui S, Kuwano Y, Ueno K, Atsumi K, Ohta S. Modeling the effect of rainfall changes to predict population dynamics of the Asian tiger mosquito <i>Aedes albopictus</i> under future climate conditions. (in submisison)
 - Japan Meteorological Agency. Weather observation data search [in Japanese].Available from: http://www.data.jma.go.jp/gmd/risk/obsdl/index.php.
 - National Oceanic and Atmospheric Administration. NOAA solar calculator, NOAA Earth System Research Laboratory Global Monitoring Division. Available from: http://www.esrl.noaa.gov/gmd/grad/solcalc/. 
 - Ohta S, Kaga T. Effect of climate on malarial vector distribution in Monsoon Asia: Coupled model for Ecophysiological and Climatological Distribution of mosquito generations (ECD-mg). Clim. Res. 2012;53: 77–88. doi:10.3354/cr01087.
